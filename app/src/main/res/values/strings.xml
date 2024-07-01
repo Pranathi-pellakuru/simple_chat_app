@@ -1,0 +1,9 @@
+<resources>
+<!--    conversation listing screen-->
+    <string name="app_name">Kommunicate</string>
+    <string name="photo">photo</string>
+
+<!--    contacts listing screen-->
+    <string name="contacts">Contacts</string>
+
+</resources>
